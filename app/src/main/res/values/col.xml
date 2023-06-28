@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="color_array">
+        <item>#DA3939</item>
+        <item>#00BFA5</item>
+        <item>#3A3232</item>
+        <item>#FF6F61</item>
+        <item>#3AC4D6</item>
+        <item>#F9C80E</item>
+        <item>#9B5DE5</item>
+        <item>#F15BB5</item>
+        <item>#00BBF9</item>
+        <item>#FF9F1C</item>
+        <item>#7F2CCB</item>
+        <item>#05D8BB</item>
+        <item>#FFCE4B</item>
+
+
+        <!-- وأي ألوان أخرى تحتاجها -->
+    </array>
+
+
+</resources>
+
